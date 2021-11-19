@@ -18,6 +18,10 @@ This repo contains all of the demo files.
 
 ## Changelog
 
+## v1.2.0
+* Add:
+    * Added header.css
+
 ## v1.0.6
 * Add:
     * Added assets files
