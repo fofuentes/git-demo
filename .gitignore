@@ -1,0 +1,5 @@
+# Image files in the assets folder
+/assets/img/*
+
+# Test files in the assets folder
+/assets/test/*
