@@ -18,6 +18,13 @@ This repo contains all of the demo files.
 
 ## Changelog
 
+## v1.2.1
+* Add:
+    * Added text5.txt and text6.txt
+
+* Update:
+    * Updated text4.txt
+
 ## v1.2.0
 * Add:
     * Added header.css
