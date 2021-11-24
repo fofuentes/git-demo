@@ -3,3 +3,7 @@
 
 # Test files in the assets folder
 /assets/test/*
+
+# Plugins
+/plugins/*
+!/plugins/classic-editor
